@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Ishaan 👋
 
-<!--
-**ishaansharma010/ishaansharma010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Analyst  
+📊 Skilled in SQL, Power BI, and Data Visualization  
+📈 Interested in Business Intelligence & Analytics
 
-Here are some ideas to get you started:
+🚀 Projects
+- Bank Loan Analytics Dashboard** (Power BI + SQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠 Skills
+- SQL  
+- Power BI  
+- DAX  
+- Data Modeling  
+- Excel
+
+ 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/ishaan-sharma-420105273
