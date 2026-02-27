@@ -5,7 +5,7 @@ Hi, I'm Ishaan 👋
 📈 Interested in Business Intelligence & Analytics
 
 🚀 Projects
-- Bank Loan Analytics Dashboard** (Power BI + SQL)
+- Bank Loan Analytics Dashboard (Power BI + SQL)
 
  🛠 Skills
 - SQL  
