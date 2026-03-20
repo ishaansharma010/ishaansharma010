@@ -15,4 +15,4 @@ Hi, I'm Ishaan 👋
 - Excel
 
  📫 Connect With Me
-LinkedIn: www.linkedin.com/in/ishaan-sharma-420105273
+LinkedIn: https://www.linkedin.com/in/ishaansharma01
