@@ -2,7 +2,7 @@ Hi, I'm Ishaan 👋
 
 💻 Aspiring Data Analyst  
 📊 Skilled in SQL, Power BI, and Data Visualization  
-📈 Interested in Business Intelligence & Analytics
+📈 Interested in Business Intelligence & Analytics 
 
 🚀 Projects
 - Bank Loan Analytics Dashboard (Power BI + SQL)
